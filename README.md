@@ -1,1 +1,12 @@
-"# trungnguyen2106" 
+# 🎁 Newborn Gift - Website Quà Tặng Trẻ Em  
+
+**Newborn Gift** là một website bán hàng trực tuyến chuyên về quà tặng cho trẻ sơ sinh.  
+Dự án được xây dựng với mục tiêu mang lại trải nghiệm mua sắm **đơn giản - hiện đại - tiện lợi** cho các bậc cha mẹ.  
+
+---
+
+## 🚀 Demo Website
+👉 [Demo giao diện](https://nguyenvanchung22062002-bot.github.io/trungnguyen2106/)
+ 
+
+---
