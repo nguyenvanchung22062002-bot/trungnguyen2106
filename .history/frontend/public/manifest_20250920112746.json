@@ -1,0 +1,96 @@
+{
+  "short_name": "Newborn Gifts",
+  "name": "Newborn Gifts Vietnam - Set Quà Cho Bé Yêu",
+  "description": "Chuyên cung cấp set quà cao cấp cho trẻ em từ sơ sinh đến 5 tuổi",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#ef4444",
+  "background_color": "#ffffff",
+  "lang": "vi",
+  "scope": "/",
+  "categories": ["shopping", "lifestyle", "kids"],
+  "screenshots": [
+    {
+      "src": "/images/screenshots/desktop.jpg",
+      "sizes": "1280x720",
+      "type": "image/jpeg",
+      "platform": "wide",
+      "label": "Desktop view of Newborn Gifts homepage"
+    },
+    {
+      "src": "/images/screenshots/mobile.jpg",
+      "sizes": "375x812",
+      "type": "image/jpeg",
+      "platform": "narrow",
+      "label": "Mobile view of Newborn Gifts homepage"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Sản phẩm",
+      "short_name": "Products",
+      "description": "Xem tất cả sản phẩm",
+      "url": "/products",
+      "icons": [
+        {
+          "src": "/images/icons/products.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Giỏ hàng",
+      "short_name": "Cart",
+      "description": "Xem giỏ hàng",
+      "url": "/cart",
+      "icons": [
+        {
+          "src": "/images/icons/cart.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Đơn hàng",
+      "short_name": "Orders",
+      "description": "Xem đơn hàng của tôi",
+      "url": "/orders",
+      "icons": [
+        {
+          "src": "/images/icons/orders.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "dir": "ltr",
+  "iarc_rating_id": "e84b072d-71b3-4d3e-86ae-31a8ce4e53b7"
+}
