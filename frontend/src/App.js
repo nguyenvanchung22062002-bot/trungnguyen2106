@@ -556,16 +556,16 @@ const Footer = () => {
           <div>
             <h3 className="font-bold text-lg mb-4">Liên hệ</h3>
             <div className="space-y-3 text-gray-300">
-              <div>📍 123 Đường ABC, Quận 1, TP.HCM</div>
-              <div>📞 (028) 1234 5678</div>
-              <div>✉️ info@newborngift.com</div>
+              <div>📍 136 Đ. Hồ Tùng Mậu, Goldmark City, Bắc Từ Liêm, Hà Nội</div>
+              <div>📞 (098) 1234 5678</div>
+              <div>✉️ trungnguyen@newborngift.com</div>
               <div>⏰ 8:00 - 22:00 (Thứ 2 - Chủ nhật)</div>
             </div>
           </div>
         </div>
 
         <div className="border-t border-gray-700 mt-12 pt-8 text-center text-gray-400">
-          <p>&copy; 2024 Newborn Gift. Tất cả quyền được bảo lưu.</p>
+          <p>&copy; © 2025 Newborn Gift | Author: Nguyễn Văn Trung</p>
         </div>
       </div>
     </footer>
